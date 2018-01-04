@@ -1,0 +1,17 @@
+{
+  "name": "7drl-visualisation",
+  "version": "1.0.0",
+  "description": "7DRL submissions datavis analysis - ongoing",
+  "main": "index.js",
+  "keywords": [
+    "Roguelike",
+    "7DRL",
+    "Visualisation"
+  ],
+  "author": "Xavier Ho",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^11.5.1",
+    "node-fetch": "^1.7.3"
+  }
+}
